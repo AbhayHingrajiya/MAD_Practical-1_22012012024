@@ -7,3 +7,7 @@ Practical 1.2-Type conversion:Integer to Double, String to Integer, String to Do
 
 ![image](https://github.com/AbhayHingrajiya/MAD_Practical-1_22012012024/assets/104710277/b6a1c963-ff88-4fcb-987a-a5b5a9d19a85)
 
+Practical 1.3-Scan student’s information and display all the data.
+
+![image](https://github.com/AbhayHingrajiya/MAD_Practical-1_22012012024/assets/104710277/24412b18-17a3-455b-a76b-3df20548a246)
+
