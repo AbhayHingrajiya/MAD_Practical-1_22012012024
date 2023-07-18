@@ -11,3 +11,6 @@ Practical 1.3-Scan student’s information and display all the data.
 
 ![image](https://github.com/AbhayHingrajiya/MAD_Practical-1_22012012024/assets/104710277/24412b18-17a3-455b-a76b-3df20548a246)
 
+Practical 1.4-Find the number is odd or even by using Control Flow inside println() method.
+
+![image](https://github.com/AbhayHingrajiya/MAD_Practical-1_22012012024/assets/104710277/c9373faa-7125-43de-ac6c-b40ff8d73d38)
